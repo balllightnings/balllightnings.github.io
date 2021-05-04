@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T13:48:42.037Z" agent="5.0 (Windows)" etag="eQOuTLrM5of72ioXTP3Z" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T13:49:01.194Z" agent="5.0 (Windows)" etag="tfx_-aibuHeNUsT4fsLD" version="14.6.9" type="github">
   <diagram id="KqNUpz4bSsDNq1EWpwz9" name="第 1 页">
     <mxGraphModel dx="782" dy="551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,8 +49,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDNK97W12JHsdHOpvgaN-17" value="&lt;font color=&quot;#B3B3B3&quot;&gt;梯度下降&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="314" y="70" width="56" height="20" as="geometry" />
+        <mxCell id="UDNK97W12JHsdHOpvgaN-17" value="&lt;font color=&quot;#CCCCCC&quot;&gt;graient&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="69" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UDNK97W12JHsdHOpvgaN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -82,7 +82,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UDNK97W12JHsdHOpvgaN-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;对比损失&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="UDNK97W12JHsdHOpvgaN-25" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;contrastive loss&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="346" y="40" width="136" height="20" as="geometry" />
         </mxCell>
       </root>
