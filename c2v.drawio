@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-04T12:56:28.068Z" agent="5.0 (Windows)" etag="ZJN-O6Hwri9DRa4pVySh" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-04T12:57:26.161Z" agent="5.0 (Windows)" etag="y2MQ4EBhVjPVUkzpCrsB" version="14.6.9" type="github">
   <diagram id="JVltaT_nDNOEHpSQOxmV" name="Page-1">
     <mxGraphModel dx="782" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,13 +52,19 @@
         <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-26" value="数据准备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=none;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-27" value="code2vec" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFB366;" vertex="1" parent="1">
+        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EP9sFhI_LQ-2BoXjK-Tm-27" target="EP9sFhI_LQ-2BoXjK-Tm-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-27" value="code2vec" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-28" value="&lt;div&gt;Code&lt;/div&gt;&lt;div&gt;vector&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FFCC99;" vertex="1" parent="1">
+        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-28" value="&lt;div&gt;Code&lt;/div&gt;&lt;div&gt;vector&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="500" y="300" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-38" value="Astminer" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFB366;" vertex="1" parent="1">
+        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EP9sFhI_LQ-2BoXjK-Tm-38" target="EP9sFhI_LQ-2BoXjK-Tm-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EP9sFhI_LQ-2BoXjK-Tm-38" value="Astminer" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#E1D5E7;" vertex="1" parent="1">
           <mxGeometry x="320" y="300" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
