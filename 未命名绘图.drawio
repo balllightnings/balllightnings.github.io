@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T01:18:20.480Z" agent="5.0 (Windows)" etag="_lL6D2Brd4QR6aryMOh3" version="14.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-05T01:21:26.128Z" agent="5.0 (Windows)" etag="oeBQkcmEbi9KhG_Xw-wO" version="14.6.9" type="github">
   <diagram id="Y1r_ca_zKAyjnsKLVMc5" name="第 1 页">
     <mxGraphModel dx="782" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,26 @@
         <mxCell id="dbpu4I7PjvVpwbkaQ9op-2" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dbpu4I7PjvVpwbkaQ9op-4" value="多头自注意机制" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-4" value="多头自注意" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;strokeColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="210" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-6" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-7" value="多头自注意" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-8" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;span&gt;编码&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; , serif&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span&gt;译码注意力&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="225" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-10" value="编码器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dbpu4I7PjvVpwbkaQ9op-11" value="译码器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
